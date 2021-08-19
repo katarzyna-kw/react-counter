@@ -1,3 +1,5 @@
+Simple Counter built with React that stores count in local storage to persist count on reloads.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
