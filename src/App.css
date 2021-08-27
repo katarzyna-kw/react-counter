@@ -8,15 +8,15 @@
 }
 
 button {
-  color: darkblue;
+  color: rgb(177, 96, 42);
   background-color: white;
   border: 0;
   border-radius: 3rem; 
-  padding: 1rem;
-  font-family:'Cabin', sans-serif;
-  text-transform: uppercase;
+  padding: 2rem;
+  font-family:'Cyrene', sans-serif;
+  /* text-transform: uppercase; */
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 5rem;
 }
 
 @media (prefers-reduced-motion: no-preference) {
