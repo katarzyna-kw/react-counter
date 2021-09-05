@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div className="App">
-      <button onClick={clickCounter}>Clicked {count} times</button>
+      <button onClick={clickCounter}>Clicked <span>{count}</span> times</button>
     </div>
   );
 }
